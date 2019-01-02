@@ -1,0 +1,20 @@
+.homepage_hero_large {
+  font-size: 100px;
+  margin-top: 200px;
+}
+
+.homepage_hero_small {
+  font-size: 60px;
+  margin-top: 200px;
+}
+
+#char-2,
+#char-3 {
+  display: none;
+}
+
+.footer-copyright {
+  position: absolute !important;
+  margin: auto;
+  bottom: 5px !important;
+}
